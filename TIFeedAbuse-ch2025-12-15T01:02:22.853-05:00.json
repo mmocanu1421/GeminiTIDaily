@@ -1,0 +1,290 @@
+[
+  {
+    "EntityType": "IP",
+    "Entity": "138.124.72.251",
+    "FirstAttack": "2025-12-10T04:54:26Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A React RCE vulnerability (CVE-2025-55182) is being exploited, leading to Mirai botnet infection.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "138.124.69.154",
+    "FirstAttack": "2025-12-10T04:54:26Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A React RCE vulnerability (CVE-2025-55182) is being exploited, leading to Mirai botnet infection.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "5.144.176.19",
+    "FirstAttack": "2025-12-10T04:54:26Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A React RCE vulnerability (CVE-2025-55182) is being exploited, leading to Mirai botnet infection.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "effeminate.fuckphillipthegerman.ru",
+    "FirstAttack": "2025-12-10T04:54:26Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A React RCE vulnerability (CVE-2025-55182) is being exploited, leading to Mirai botnet infection.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "trap.fuckphillipthegerman.ru",
+    "FirstAttack": "2025-12-10T04:54:26Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A React RCE vulnerability (CVE-2025-55182) is being exploited, leading to Mirai botnet infection.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "tranny.fuckphillipthegerman.ru",
+    "FirstAttack": "2025-12-10T04:54:26Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A React RCE vulnerability (CVE-2025-55182) is being exploited, leading to Mirai botnet infection.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "104.198.24.41",
+    "FirstAttack": "2025-12-08T15:41:05Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "MaksRAT malware sample communicates with botnet command and control servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "avocado.gay",
+    "FirstAttack": "2025-12-08T15:41:05Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "MaksRAT malware sample communicates with botnet command and control servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "www.foldacces.online",
+    "FirstAttack": "2025-12-08T15:41:05Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "MaksRAT malware sample communicates with botnet command and control servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "www.makslove.xyz",
+    "FirstAttack": "2025-12-08T15:41:05Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "MaksRAT malware sample communicates with botnet command and control servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "www.mavenrat.xyz",
+    "FirstAttack": "2025-12-08T15:41:05Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "MaksRAT malware sample communicates with botnet command and control servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "www.blackprofit.online",
+    "FirstAttack": "2025-12-08T15:41:05Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "MaksRAT malware sample communicates with botnet command and control servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "213.209.143.85",
+    "FirstAttack": "2025-12-05T11:41:12Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This describes a Mirai campaign involving a botnet C2 domain and server, spreading malware and manipulating system iptables.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "womp.datasurge.vip",
+    "FirstAttack": "2025-12-05T11:41:12Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This describes a Mirai campaign involving a botnet C2 domain and server, spreading malware and manipulating system iptables.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "176.65.148.57",
+    "FirstAttack": "2025-12-05T11:41:12Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This describes a Mirai campaign involving a botnet C2 domain and server, spreading malware and manipulating system iptables.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "172.86.123.179",
+    "FirstAttack": "2025-12-04T06:57:29Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This describes Mirai botnet activity involving a C2 domain and server for malware operations.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "0bot.qzz.io",
+    "FirstAttack": "2025-12-04T06:57:29Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This describes Mirai botnet activity involving a C2 domain and server for malware operations.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "140.233.190.96",
+    "FirstAttack": "2025-12-04T06:57:29Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This describes Mirai botnet activity involving a C2 domain and server for malware operations.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "gmail.com",
+    "FirstAttack": "2025-11-27T15:47:07Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This GrokPy malware uses a Grok LLM model to bypass CAPTCHAs, collects device information, escalates privileges, leverages Chrome developer protocol, communicates with C2, and creates Discord accounts.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "46.62.225.51",
+    "FirstAttack": "2025-11-27T15:47:07Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This GrokPy malware uses a Grok LLM model to bypass CAPTCHAs, collects device information, escalates privileges, leverages Chrome developer protocol, communicates with C2, and creates Discord accounts.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "46.62.224.205",
+    "FirstAttack": "2025-11-27T15:47:07Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This GrokPy malware uses a Grok LLM model to bypass CAPTCHAs, collects device information, escalates privileges, leverages Chrome developer protocol, communicates with C2, and creates Discord accounts.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "46.62.205.38",
+    "FirstAttack": "2025-11-27T15:47:07Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This GrokPy malware uses a Grok LLM model to bypass CAPTCHAs, collects device information, escalates privileges, leverages Chrome developer protocol, communicates with C2, and creates Discord accounts.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "url",
+    "Entity": "https://arkanix.pw/api/session/create",
+    "FirstAttack": "2025-11-19T08:29:46Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "ArkanixStealer is a new stealer malware that employs botnet command and control infrastructure for its operations.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "url",
+    "Entity": "https://arkanix.pw/delivery",
+    "FirstAttack": "2025-11-19T08:29:46Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "ArkanixStealer is a new stealer malware that employs botnet command and control infrastructure for its operations.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "url",
+    "Entity": "https://arkanix.pw/api/discord-injection/template",
+    "FirstAttack": "2025-11-19T08:29:46Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "ArkanixStealer is a new stealer malware that employs botnet command and control infrastructure for its operations.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "IP",
+    "Entity": "185.100.157.69",
+    "FirstAttack": "2025-11-16T15:25:52Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A potential new stealer malware, possibly dropped by Amadey, is using specific botnet C2 domains and servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "defender-temeerty.sbs",
+    "FirstAttack": "2025-11-16T15:25:52Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A potential new stealer malware, possibly dropped by Amadey, is using specific botnet C2 domains and servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "domain",
+    "Entity": "telemetry-defender.lol",
+    "FirstAttack": "2025-11-16T15:25:52Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A potential new stealer malware, possibly dropped by Amadey, is using specific botnet C2 domains and servers.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "ip",
+    "Entity": "89.110.95.186",
+    "FirstAttack": "2025-11-03T14:49:46Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A malicious bash script establishes a proxy on compromised Linux systems, modifying system configurations and forwarding traffic.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "ip",
+    "Entity": "45.156.87.37",
+    "FirstAttack": "2025-11-03T14:49:46Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "A malicious bash script establishes a proxy on compromised Linux systems, modifying system configurations and forwarding traffic.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "url",
+    "Entity": "http://45.141.215.196/FuckYou0urlhaus0abuse0ch/",
+    "FirstAttack": "2025-10-10T13:12:22Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This activity involves a Mirai botnet threat actor utilizing a C2 server for malware payload delivery, which has since been taken down and sinkholed.",
+    "Count": "1"
+  },
+  {
+    "EntityType": "ip",
+    "Entity": "45.141.215.196",
+    "FirstAttack": "2025-10-10T13:12:22Z",
+    "ThreatFeed": "abuse.ch",
+    "KnownThreat": "Malicious activity",
+    "Description": "This activity involves a Mirai botnet threat actor utilizing a C2 server for malware payload delivery, which has since been taken down and sinkholed.",
+    "Count": "1"
+  }
+]
